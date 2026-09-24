@@ -3,6 +3,19 @@
   "name": "Как выбрать что бы ты работал",
   "createdAt": "2026-09-24T17:08:23.318Z",
   "filename": "1d2a8144-eb38-4053-8303-59720e500624.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "95382c57-bfe6-4d40-aaa2-cd614f7db838",
+      "role": "user",
+      "content": "Как выбрать что бы ты работал с моим уже существующим репозиторием гитхаб?",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-09-24T17:11:25.940Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
